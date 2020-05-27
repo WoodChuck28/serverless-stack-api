@@ -1,0 +1,3 @@
+git: https://github.com/WoodChuck28/serverless-stack-api.git
+poolID: us-east-2_2r2XCnEAU
+appClientID: 2oiipb5haecvtj18ftb2uekl0i
